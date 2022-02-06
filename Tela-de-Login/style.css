@@ -42,7 +42,7 @@ div > p > a{
     color: white;
 }
 div > p > a:hover{
-    background-color: rgb(49, 56, 92);
+    background-color: rgb(112, 125, 199);
     padding: 4px;
     border-radius: 7px;
 }

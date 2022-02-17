@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(56, 121, 206);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25pt;
+}
+header{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 3px 6px black;
+}
+div{
+    text-align: center;
+    padding: 5px;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 1px 3px 7px rgba(0, 0, 0, 0.7);
+}
+input{
+    font-size: 20px;
+}
+#botao{
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
